@@ -129,13 +129,6 @@
       </a>
       <br>Bootstrap
     </td>
-      
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
     <td align="center"  width="96">
       <a href="#didar83-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="48" height="48" alt="git" />
@@ -148,7 +141,7 @@
   
   
   
-<h2 align="left">📈 My GitHub Stats</h2>
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="didarakulov" />
 
