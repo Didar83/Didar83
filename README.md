@@ -91,6 +91,8 @@
       </a>
       <br>Git
     </td>
+    </tr>
+  <tr>
     <td align="center"  width="96">
       <a href="#didar83-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="48" alt="github" />
@@ -102,6 +104,24 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" width="48" height="48" alt="gitlab" />
       </a>
       <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" width="48" height="48" alt="Heroku" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="48" height="48" alt="html5" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="48" height="48" alt="intellij" />
+      </a>
+      <br>Intellij Idea
     </td>
     
     
