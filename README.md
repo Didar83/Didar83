@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Didar Akulov</h1>
 <h3 align="left">I am a self-taught Java-Developer</h3>
 
-<br><br>
+
 <p align="left">
   <a href="https://github.com/didar83/didar83">
     <img src="https://komarev.com/ghpvc/?username=didar83" alt="page views" />
@@ -16,7 +16,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/didar83?color=green&logo=github">
   </a>
 </p>
-<br><br>
+
 
 <a href="#didar83-title">
   <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didar83" align="right" />
@@ -24,9 +24,6 @@
 
 - :seedling: &nbsp;I’m currently learning **Java / Spring / Hibernate**
 
-<br><br>
-
-// Skills: Java / Spring Boot / Spring MVC/ Hibernate / JS / HTML / CSS
 
 
 
