@@ -143,7 +143,7 @@
   
 <h2 align="left">📈 My GitHub Stats</h2>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="didarakulov" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didarakulov" />
 
 
 
