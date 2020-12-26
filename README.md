@@ -67,6 +67,44 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" width="48" height="48" alt="Tomcat" />
+      </a>
+      <br>Tomcat
+    </td>
+    <td align="center"  width="96">
+      <a href="#didar83-tech">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Experss-js" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center"  width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center"  width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>GitLab
+    </td>
+    
+    
    </tr>
 </table>
 </p>
