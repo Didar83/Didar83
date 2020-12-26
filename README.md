@@ -19,14 +19,10 @@
 <br><br>
 
 <a href="#didar83-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didar83" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :seedling: &nbsp;I’m currently learning **Java / Spring / Hibernate**
 
 <br><br>
 
@@ -38,9 +34,3 @@
 
 
 
-
-<p align="left">
-<h4>📈 My GitHub Stats</h4>
-</p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didarakulov" />
