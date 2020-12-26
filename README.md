@@ -25,8 +25,8 @@
 - 👨🏽‍💻 I’m currently working on pet-project:wink:;
 - 🌱 I’m currently learning **Spring MVC**; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@qp100500](https://twitter.com/qp100500);
-- :computer: &nbsp;Connect with me on **[LinkedIn]**(https://www.linkedin.com/in/didar-akulov/) 
+- 📫 How to reach me: [Tweeter](https://twitter.com/qp100500);
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/didar-akulov/) 
 </p>
 
 
