@@ -41,25 +41,31 @@
       <a href="#didar83-tech">
         <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Java&nbsp;(Core)
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" width="48" height="48" alt="spring" />
       </a>
-      <br>NodeJS
+      <br>Spring (core)
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" width="48" height="48" alt="spring" />
       </a>
-      <br>JavaScript
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" width="48" height="48" alt="spring" />
       </a>
-      <br>Bootstrap
+      <br>Spring MVC
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/hibernate.svg" width="48" height="48" alt="hibernate" />
+      </a>
+      <br>Hibernate
     </td>
     <td align="center"  width="96">
       <a href="#didar83-tech">
@@ -69,48 +75,18 @@
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" height="48" alt="postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" width="48" height="48" alt="Tomcat" />
       </a>
       <br>Tomcat
     </td>
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Experss-js" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
     </tr>
-  <tr>
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center"  width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" width="48" height="48" alt="gitlab" />
-      </a>
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" width="48" height="48" alt="Heroku" />
-      </a>
-      <br>Heroku
-    </td>
+    <tr>
     <td align="center" width="96">
       <a href="#didar83-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="48" height="48" alt="html5" />
@@ -119,9 +95,21 @@
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="48" height="48" alt="intellij" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="css3" />
       </a>
-      <br>Intellij Idea
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
@@ -129,38 +117,32 @@
       </a>
       <br>NPM
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" height="48" alt="postgresql" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Experss-js" />
       </a>
-      <br>PostgreSQL
+      <br>ExpressJS
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" width="48" height="48" alt="slack" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Slack
+      <br>Bootstrap
     </td>
-    <td align="center" width="96">
+      
+    <td align="center"  width="96">
       <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="48" height="48" alt="Trello" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Trello
+      <br>Ubuntu
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="48" height="48" alt="Android" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="48" height="48" alt="git" />
       </a>
-      <br>Android
+      <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#didar83-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>CSS
-    </td>
-    
-   </tr>
+    </tr>
 </table>
 </p>
   
