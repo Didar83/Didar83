@@ -6,7 +6,7 @@
   <a href="https://github.com/didar83/didar83">
     <img src="https://komarev.com/ghpvc/?username=didar83" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/8219132/didar">
+  <a href="https://stackoverflow.com/users/8219132">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8219132?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://reddit.com/u/Ak1nava">
