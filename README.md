@@ -17,12 +17,15 @@
   </a>
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-<a href="#didar83-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didar83" align="right" />
-</a>
-
-- :seedling: &nbsp;I’m currently learning **Java / Spring / Hibernate**
+- 👨🏽‍💻 I’m currently working on my pet-project :wink:;
+- 🌱 I’m currently learning Typescript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@qp100500](https://twitter.com/qp100500);
+- :computer: &nbsp;Connect with me on **[LinkedIn]**(https://www.linkedin.com/in/didar-akulov/) 
 
 
 
