@@ -75,9 +75,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Debian
+      <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a href="#didar83-tech">
@@ -123,7 +123,42 @@
       </a>
       <br>Intellij Idea
     </td>
-    
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" height="48" alt="postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" width="48" height="48" alt="slack" />
+      </a>
+      <br>Slack
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#didar83-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>CSS
+    </td>
     
    </tr>
 </table>
