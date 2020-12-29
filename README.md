@@ -153,9 +153,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.udemy.com/certificate/UC-2cb415e7-2586-49de-bde9-3611faf50173">
-        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/udemy1.png" width="48" height="48" alt="hackerrank" />
+        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/udemy1.png" width="48" height="48" alt="udemy" />
       </a>
-      <br>Hackerrank
+      <br>Spring course on Udemy
     </td>
     </tr>
 </table>
