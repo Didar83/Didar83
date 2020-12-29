@@ -140,10 +140,24 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didarakulov" />
 
+<h2 align="left">📈 My Education Stats (clickable)</h2>
 
-
-
-
-
-
+<p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.hackerrank.com/tam_tam1?hr_r=1&badge=java&stars=3&level=2">
+        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/1609229769832.jpeg" width="48" height="48" alt="hackerrank" />
+      </a>
+      <br>Hackerrank
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.udemy.com/certificate/UC-2cb415e7-2586-49de-bde9-3611faf50173">
+        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/udemy1.png" width="48" height="48" alt="hackerrank" />
+      </a>
+      <br>Hackerrank
+    </td>
+    </tr>
+</table>
+</p>
 
