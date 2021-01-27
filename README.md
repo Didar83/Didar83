@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -66,7 +66,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -98,13 +98,13 @@
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -122,7 +122,7 @@
     </td>
     <td align="center" width="96">
       <a href="#didar83-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/gilbarbara/logos/blob/master/logos/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
