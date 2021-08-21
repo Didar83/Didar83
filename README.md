@@ -21,10 +21,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on pet-project:wink:
-- 🌱 I’m currently learning **Spring MVC**
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Tweeter](https://twitter.com/qp100500)
+- 👨🏽‍💻 I’m currently working in **InesSoft** (Java-Developer)
+- 💬 Ask me about backend-development and IT, I'm ready to help
+- 📫 How to reach me: [e-mail](di.akulov@gmail.com)
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/didar-akulov/) 
 </p>
 <br>
@@ -145,6 +144,12 @@
 <p>
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="https://javaops.ru/certificate/topjava?lang=en&email=di.akulov@gmail.com">
+        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/topjava.png" width="48" height="48" alt="topjava" />
+      </a>
+      <br>Java-Developer
+    </td>
     <td align="center" width="96">
       <a href="https://www.hackerrank.com/tam_tam1?hr_r=1&badge=java&stars=3&level=2">
         <img src="https://github.com/Didar83/desktop-tutorial/blob/master/Java.png" width="48" height="48" alt="hackerrank" />
