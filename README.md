@@ -21,7 +21,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in **InesSoft** (Java-Developer)
+- 👨🏽‍💻 I’m currently working in **Astana International Exchange** (Java-Developer)
 - 💬 Ask me about backend-development and IT, I'm ready to help
 - 📫 How to reach me: [e-mail](di.akulov@gmail.com)
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/didar-akulov/) 
