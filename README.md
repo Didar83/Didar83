@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Didar Akulov</h1>
-<h3 align="left">I am a self-taught Java-Developer</h3>
+<h3 align="left">I am a Software Developer</h3>
 
 <p align="left">
   <a href="https://github.com/didar83/didar83">
