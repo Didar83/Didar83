@@ -138,9 +138,7 @@
 <h2 align="left">📈 My GitHub Stats</h2>
 
 <p dir="auto">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://camo.githubusercontent.com/824d39e485fa3f783c2860f6e5d7909cf61fc63cb4e0fd71f595a7b23459ca82/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d506176656c53656d656e6f764e69636b6f6c616576696368" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didar83" style="max-width: 100%;">
-	</a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didar83" alt="Top Langs" style="max-width: 100%;">
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didarakulov" />
