@@ -141,7 +141,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didar83" alt="Top Langs" style="max-width: 100%;">
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&show_icons=true&theme=gotham" alt="didarakulov" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&count_private=true&show_icons=true&theme=gotham" alt="didarakulov" />
 
 <h2 align="left">📈 My Education Stats (clickable)</h2>
 
