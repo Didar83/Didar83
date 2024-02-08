@@ -21,7 +21,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in **Astana International Exchange** (Java-Developer)
+- 👨🏽‍💻 I’m currently working in **startup** (Backend-Developer)
 - 💬 Ask me about backend-development and IT, I'm ready to help
 
 </p>
