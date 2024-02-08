@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Didar Akulov</h1>
-<h3 align="left">I am a Software Developer</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+<h3 align="left">Software Developer</h3>
 
 <p align="left">
   <a href="https://github.com/didar83/didar83">
@@ -23,8 +23,7 @@
 
 - 👨🏽‍💻 I’m currently working in **Astana International Exchange** (Java-Developer)
 - 💬 Ask me about backend-development and IT, I'm ready to help
-- 📫 How to reach me: [e-mail](di.akulov@gmail.com)
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/didar-akulov/) 
+
 </p>
 <br>
 
@@ -141,32 +140,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didar83&theme=gotham" alt="Top Langs" style="max-width: 100%;">
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&count_private=true&show_icons=true&theme=gotham" alt="didarakulov" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=didar83&count_private=true&show_icons=true&theme=gotham" alt="didar" />
 
 <h2 align="left">📈 My Education Stats (clickable)</h2>
 
-<p>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://javaops.ru/certificate/topjava?lang=en&email=di.akulov@gmail.com">
-        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/topjava.png" width="48" height="48" alt="topjava" />
-      </a>
-      <br>Java-Developer
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.hackerrank.com/tam_tam1?hr_r=1&badge=java&stars=3&level=2">
-        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/Java.png" width="48" height="48" alt="hackerrank" />
-      </a>
-      <br>Hackerrank
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.udemy.com/certificate/UC-2cb415e7-2586-49de-bde9-3611faf50173">
-        <img src="https://github.com/Didar83/desktop-tutorial/blob/master/udemy1.png" width="48" height="48" alt="udemy" />
-      </a>
-      <br>Spring course on Udemy
-    </td>
-    </tr>
-</table>
-</p>
 
